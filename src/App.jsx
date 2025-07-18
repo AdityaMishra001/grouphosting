@@ -5,7 +5,7 @@ function App() {
     <div className="gradient-bg flex min-h-screen items-center justify-center from-blue-500 to-purple-600 p-8">
       <div className="max-w-xl transform rounded-lg bg-white p-8 shadow-lg transition duration-500 hover:scale-105">
         <h1 className="mb-4 animate-bounce text-center text-4xl font-bold text-gray-800">
-          Hello Friend
+          Hello Friend ...............
         </h1>
         <p className="mb-6 rounded-md bg-amber-100 p-6 text-gray-600">
           Welcome to modern web development stack: Vite,
