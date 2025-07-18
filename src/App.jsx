@@ -5,11 +5,10 @@ function App() {
     <div className="gradient-bg flex min-h-screen items-center justify-center from-blue-500 to-purple-600 p-8">
       <div className="max-w-xl transform rounded-lg bg-white p-8 shadow-lg transition duration-500 hover:scale-105">
         <h1 className="mb-4 animate-bounce text-center text-4xl font-bold text-gray-800">
-          Hello World
+          Hello Friend
         </h1>
         <p className="mb-6 rounded-md bg-amber-100 p-6 text-gray-600">
-          Welcome to our React application enhanced with Tailwind CSS. This
-          application is built using the modern web development stack: Vite,
+          Welcome to modern web development stack: Vite,
           React, Tailwind CSS, and Prettier.
         </p>
         <div className="prose mt-6">
